@@ -1,0 +1,38 @@
+div{
+    float: left;
+    width: 30%;
+    align-items: center;
+    border-style: double;
+    margin: auto;
+    border-radius: 30%;
+    padding: 100px;
+    border:20% snow
+    
+}
+
+p{
+    text-align: center;
+}
+
+div#history{
+    float: left;
+    text-align: center;
+    margin: auto;
+}
+
+#image{
+    height: 50%;
+    width: 50%;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+
+body{
+    background-image: url(./bckground.jpg);
+    color: aliceblue;
+}
+
+
+    
